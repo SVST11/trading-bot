@@ -1,0 +1,14 @@
+2026-03-19 22:43:03,926 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-03-19 22:43:03,927 - ERROR - Error placing order: API Secret required for private endpoints
+2026-03-19 22:45:15,225 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-03-19 22:45:15,226 - ERROR - Error placing order: API Secret required for private endpoints
+2026-03-19 22:57:29,582 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-03-19 22:57:29,583 - ERROR - Error placing order: API Secret required for private endpoints
+2026-03-19 22:58:51,645 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-03-19 22:58:52,404 - ERROR - Error placing order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-03-19 22:59:35,437 - INFO - Placing order: BTCUSDT BUY MARKET 0.002 None
+2026-03-19 22:59:36,176 - INFO - Response: {'orderId': 12883161828, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJe63beca84f89e5c4c8ebb9', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773941377659}
+2026-03-19 23:02:13,662 - INFO - Placing order: BTCUSDT BUY MARKET 0.002 None
+2026-03-19 23:02:14,514 - INFO - Response: {'orderId': 12883200347, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJfcb6d52743000bdd075fda', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773941535915}
+2026-03-19 23:05:57,741 - INFO - Placing order: BTCUSDT BUY MARKET 0.002 None
+2026-03-19 23:05:58,465 - INFO - Response: {'orderId': 12883250000, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJce7df6a8bbbc0e77607d7d', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.002', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1773941759955}
